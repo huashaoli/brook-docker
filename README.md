@@ -4,7 +4,7 @@ docker run -d \
            --rm \
            --name brook \
            -p 9080:80 
-           ihuangqi/brook-docker
+           ihuangqi/brook
 ```
 
 # 2. More
